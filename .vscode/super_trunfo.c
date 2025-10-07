@@ -58,7 +58,7 @@ scanf("%d",População1);
 printf("Digite o valor de Area 1");
 scanf("%f",Area1);
 
-
+printf("Calculo ")
 
 if(Area1 > População);
 print("Area 1 é maior que Area 2!"\n);
