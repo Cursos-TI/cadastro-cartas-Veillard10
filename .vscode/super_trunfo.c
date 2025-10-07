@@ -43,7 +43,27 @@ int main () {
     scanf("%f",&Area2);
     printf("Informe o PIB (bilhões de Reais):");
     scanf("%f",&Pib2);
-    printf("Informe a quantidade de pontos turísticos:");
+    printf("Informe a quantidade de pontos turísticos:\n");
 scanf("%d",&PontosTuristicos2);
+}
+
+int main{
+int População1;
+float Area1;
+
+printf("")
+printf("Digite o valor da População 1");
+scanf("%d",População1);
+
+printf("Digite o valor de Area 1");
+scanf("%f",Area1);
+
+
+
+if(Area1 > População);
+print("Area 1 é maior que Area 2!"\n);
+
+
+}
 return 0;
 }
